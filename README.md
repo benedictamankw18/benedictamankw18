@@ -1,7 +1,7 @@
 # BenedictAmankwa
 
 # 💫 About Me:
-I'm a tech enthusiast passionate about digital things, especially<br> programming, cybersecurity, and ethical hacking. I'm constantly<br> exploring new technologies, diving into complex concepts, and<br> building my skills to become a well-rounded tech professional.<br> I aim to use my knowledge to create innovative solutions<br> and contribute to a secure and accessible digital world. 
+I'm a tech enthusiast passionate about digital things, especially programming, cybersecurity, and ethical hacking. I'm constantly exploring new technologies, diving into complex concepts, and building my skills to become a well-rounded tech professional. I aim to use my knowledge to create innovative solutions and contribute to a secure and accessible digital world. 
 
 
 ## 🌐 Socials:
