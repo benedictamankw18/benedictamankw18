@@ -1,36 +1,163 @@
-# BenedictAmankwa
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&theme=cobalt"/>
+</div>
 
-# 💫 About Me:
-I'm a tech enthusiast who is passionate about digital things, especially programming, cybersecurity, and ethical hacking. I'm constantly exploring new technologies, diving into complex concepts, and building my skills to become a well-rounded tech professional. I aim to use my knowledge to create innovative solutions and contribute to a secure and accessible digital world. 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=benedictamankw18.benedictamankw18&"  />
+</div>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/78VeBsVV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080326686159) [![Whatsapp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me.com/+233594500785) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Kali0Nethunter) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21746271/benedict-amankwa)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](
-https://github-readme-stats.vercel.app/api?username=benedictamankw18&theme=light&hide_border=true&include_all_commits=true&count_private=true
-)
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=benedictamankw18&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=benedictamankw18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=benedictamankw18&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![Benedict's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=benedictamankw18&combine_all_yearly_contributions=true&theme=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=benedictamankw18&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/benedictamankwa18@gmail.com) 
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/116226368?u=8a10afe7e525b9b44a57d87bd112c3f6d29ddd62%5Cu0026v=4"  />
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<h1 align="center">Hi 👋, I'm Benedict Amankwa</h1>
+
+<h3 align="center">🔒 Cybersecurity Enthusiast | 💻 Full-Stack Developer | ⚔️ Ethical Hacker</h3>
+
+<p align="center">
+  🌌 Dark Web Explorer • 🛠️ Building Secure Systems • 🤖 AI & Cloud Enthusiast
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently building **secure and scalable applications**  
+- 🌱 Continuously learning **cloud security, AI, and ethical hacking**  
+- 💡 Passionate about **digital innovation and secure systems**  
+- 🎯 Goal: Contribute to a **safer, accessible, and cutting-edge digital world**
+
+---
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31b7bb3cxcb5iwr3rkqqaoz2xovm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b7bb3cxcb5iwr3rkqqaoz2xovm&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/78VeBsVV"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33&animation=glow"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100080326686159"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1C1F22&animation=glow"/></a>
+  <a href="https://wa.me/233594500785"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1C1F22&animation=glow"/></a>
+  <a href="https://t.me/Kali0Nethunter"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1C1F22&animation=glow"/></a>
+  <a href="https://stackoverflow.com/users/21746271/benedict-amankwa"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=1C1F22&animation=glow"/></a>
+  <a href="https://n3thunt3r.social/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1C1F22&animation=glow"/></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&animation=glow"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff&animation=glow"/>
+</p>
+
+### 🌐 Web & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=fff&animation=glow"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=fff&animation=glow"/>
+</p>
+
+### 🛡️ Cybersecurity & Networking
+<p align="center">
+  <img sArc="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Wireshark-1E3A5F?style=for-the-badge&logo=wireshark&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Nmap-9B0A0A?style=for-the-badge&logo=nmap&logoColor=fff&animation=glow"/>
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=000&animation=glow"/>
+</p>
+
+---
+<img src="https://raw.githubusercontent.com/benedictamankw18/benedictamankw18/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/benedictamankw18/benedictamankw18/output/snake.svg" alt="Snake animation" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benedictamankw18&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF7139&icon_color=FF7139"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benedictamankw18&theme=radical&hide_border=true&ring=FF7139&fire=FF7139"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedictamankw18&layout=compact&theme=radical&hide_border=true&title_color=FF7139&bg_color=1C1F22"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=benedictamankw18&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benedictamankw18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benedictamankw18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benedictamankw18/benedictamankw18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benedictamankw18/benedictamankw18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/benedictamankw18/benedictamankw18/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌍 Portfolio & Projects
+- 🔹 [Portfolio Website](https://n3thunt3r.social/)  
+- 🔹 [Top GitHub Projects](https://github.com/benedictamankw18?tab=repositories)  
+- 🔹 [Cybersecurity Labs & Scripts](https://github.com/benedictamankw18?tab=repositories&q=cybersecurity)
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+## 💰 Support My Work
+<p align="center">
+  <a href="https://paypal.me/benedictamankwa18@gmail.com">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=fff&animation=glow"/>
+  </a>
+</p>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=benedictamankw18.benedictamankw18&"  />
+</div>
